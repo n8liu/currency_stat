@@ -30,3 +30,14 @@ the project. This may require you to use Kubernetes (you get a free cluster on G
 
 Dockerize it!
 
+## So Far...
+
+requirements:
+'''
+pip install flask
+'''
+
+to run the webapp:
+'''
+python3 src/main.py
+'''
