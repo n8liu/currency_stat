@@ -33,11 +33,11 @@ Dockerize it!
 ## So Far...
 
 requirements:
-'''
+```
 pip install flask
-'''
+```
 
 to run the webapp:
-'''
+```
 python3 src/main.py
-'''
+```
